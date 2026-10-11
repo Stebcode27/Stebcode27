@@ -48,5 +48,5 @@ Visionneuse DICOM professionnelle en **C++20 / Qt6**, conçue seule, pour les h�
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton lien]
-- Email : [ton email]
+- LinkedIn : www.linkedin.com/in/azriel-teuga-735871303
+- Email : teugastebane@gmail.com
